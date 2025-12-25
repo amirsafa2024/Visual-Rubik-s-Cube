@@ -24,7 +24,7 @@ You can freely rotate the entire cube by dragging with your mouse to see differe
 
     ```bash
     git clone https://github.com/amirsafa2024/Visual-Rubik-s-Cube.git
-    cd THE-REPO-NAME
+    cd THE-REPO-DIRECTORY
     ```
 
 2. (Recommended) Create and activate a virtual environment:
